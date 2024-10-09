@@ -2,7 +2,7 @@ import React from "react";
 import Alumno1 from "../assets/andrei.png";
 import Alumno2 from "../assets/cris.jpg";
 import Alumno3 from "../assets/cleber.png";
-import Alumno4 from "../assets/hugo.jpeg";
+import Alumno4 from "../assets/Hugo.jpeg";
 function Galeria() {
   return (
     <section className="galeria">
